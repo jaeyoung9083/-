@@ -1,3 +1,8 @@
+리드미는 금요일까지 작성해놓겠습니다!!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
